@@ -11,19 +11,21 @@ You can either generate your own email address or you can generate a random emai
 ## Git Installation
 ```
 # clone the repo
-$ git clone https://github.com/akpandawep/Mail-Swipe.git
+$ !git clone https://github.com/akpandawep/Mail-Swipe.git
 
 # change the working directory to Mail-Swipe
-$ cd Mail-Swipe
+$ %cd Mail-Swipe
 
 # install the requirements
-$ pip3 install -r requirements.txt
+$ !pip3 install -r requirements.txt
+
+$ !python mailSwipe.py
 ```
 
 ## Usage
 
 ```
-python mailSwipe.py
+
 ```
 ## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
