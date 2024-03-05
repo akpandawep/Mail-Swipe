@@ -11,7 +11,7 @@ You can either generate your own email address or you can generate a random emai
 ## Git Installation
 ```
 # clone the repo
-$ git clone https://github.com/sameera-madushan/Mail-Swipe.git
+$ git clone https://github.com/akpandawep/Mail-Swipe.git
 
 # change the working directory to Mail-Swipe
 $ cd Mail-Swipe
